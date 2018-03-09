@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+
+.wrapper{
+    width: 840px;
+    margin: 0px auto;
+    border: 5px dotted black;
+}
+
+h1{
+    color:midnightblue;
+}
+
+img{
+    width:400px;
+}
+#thirdDiv{
+    height: 640px;
+    width: 500px;
+    background-color: goldenrod;
+    padding: 50px;
+    border: 10px solid #000;
+    margin: 0px 100px;
+}
+#spanId{
+    font-size: 18px;
+    margin:50px;
+}
